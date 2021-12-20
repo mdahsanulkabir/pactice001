@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    background-color: #262626;
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+}
+.wrapper {
+    width: 100%;
+    margin: 0;
+}
+#logo {
+    padding: 2px;
+    height: 20px;
+    float: left;
+}
+nav {
+    float: right;
+    font-family: helvetica;
+    padding-top: 5px;
+}
+nav a{
+    color: red;
+}
+body{
+    text-align: center;
+}
